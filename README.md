@@ -1,7 +1,7 @@
 👋 Hi, I’m @Andre-Volcov
-👀 I’m interested in working as Salesforce consultant
+👀 I’m interested in working as Salesforce Junior Developer
 🔭 I’m currently working on my skills as a Back-End Developer.
-🎯 I have knowledge in JavaScript, HTML, CSS, GIT, React, Redux, Context Api, Styled-Components, MUI, Express.js, PostgreSQL.
+🎯 I have knowledge in JavaScript, HTML, CSS, GIT, React, Redux, Context Api, Styled-Components, MUI, Express.js, PostgreSQL, Typescript and Typeorm.
 🌱 I’m currently learning Salesforce | Back-end.
 📫 How to reach me: andre.volcov@gmail.com.
 
